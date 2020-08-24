@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/54087303/python-requests-how-to-check-for-200-ok
+#for useing status.code to check is response was 200
