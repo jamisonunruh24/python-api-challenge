@@ -1,0 +1,12 @@
+part 1
+generate 500+ random long lat coordinates
+	list for both long and lat, randomly generated
+
+use citypi to find closest city and put in list
+
+use loop to pull temp(f), Humidity(%) cloudyness(%) and windspeed(MPH) and north/south(if > 0 if < 0) hempisphere location.  (assign all to lists)
+create dataframe out of lists
+
+use matplotlib to create scatter plots using the lists
+use dataframe to split into north/south for linear regression
+
