@@ -10,3 +10,9 @@ create dataframe out of lists
 use matplotlib to create scatter plots using the lists
 use dataframe to split into north/south for linear regression
 
+part 2
+
+create a heat map of humidity in city location
+
+use places API for find hotels in 5000 m from location.
+
